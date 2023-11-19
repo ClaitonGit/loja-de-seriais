@@ -1,16 +1,20 @@
-# gamekey
+<h1 align="center">
+    <br>App lojinha de seriais KEY de jogos para PC com Flutter<br/>
+</h1>
 
-A new Flutter project.
+## :bookmark: Sobre o Projeto
 
-## Getting Started
+Esse aplicativo Flutter é uma loja de venda de seriais de jogos para PC e outras plataformas.
 
-This project is a starting point for a Flutter application.
+## :rocket: Tecnologias Utilizadas
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter]
+- [Dart]
+- [Android Studio]
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Layout mobile
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/55120068/284066126-926660f1-6933-4403-b01c-9612a92d037b.jpeg" alt="drawing" width="200"/>
+<img src="https://github.com/ClaitonGit/App_Agromix/assets/55120068/e7681a2b-5947-46d4-9d1f-e7b078091f7b" alt="drawing" width="200"/>
+<img src="https://github.com/ClaitonGit/App_Agromix/assets/55120068/9bab00df-bb51-4dfa-90a9-84d9ee4283aa" alt="drawing" width="200"/>
+
