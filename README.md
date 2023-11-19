@@ -15,6 +15,6 @@ Esse aplicativo Flutter é uma loja de venda de seriais de jogos para PC e outra
 ## Layout mobile
 
 <img src="https://user-images.githubusercontent.com/55120068/284066126-926660f1-6933-4403-b01c-9612a92d037b.jpeg" alt="drawing" width="200"/>
-<img src="https://github.com/ClaitonGit/App_Agromix/assets/55120068/e7681a2b-5947-46d4-9d1f-e7b078091f7b" alt="drawing" width="200"/>
-<img src="https://github.com/ClaitonGit/App_Agromix/assets/55120068/9bab00df-bb51-4dfa-90a9-84d9ee4283aa" alt="drawing" width="200"/>
+<img src="https://user-images.githubusercontent.com/55120068/284066128-f1209131-2674-4196-a3b4-056c72e49fad.jpeg" alt="drawing" width="200"/>
+<img src="https://user-images.githubusercontent.com/55120068/284066129-545f905d-dfc4-4b2e-bbdb-1eb739bc6261.jpeg" alt="drawing" width="200"/>
 
